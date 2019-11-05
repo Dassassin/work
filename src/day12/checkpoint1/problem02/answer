@@ -1,0 +1,6 @@
+1.在程序开发中，经常需要遍历集合中的所有元素。针对这种需求，JDK专门提供了一个接口java.util.Iterator。
+  Iterator接口也是Java集合中的一员，但它与Collection、Map接口有所不同，
+  Collection接口与Map接口主要用于存储元素，而Iterator主要用于迭代访问（即遍历）Collection中的元素，
+  因此Iterator对象也被称为迭代器。
+2.hashNext()方法用于判断集合中是否存在下一个元素，
+  如果存在，则调用next()方法将元素取出，否则说明已到达了集合末尾，停止遍历元素。

@@ -1,0 +1,5 @@
+New(初始化状态)
+Runnable(就绪状态)
+Running(运行状态)
+Blocked(阻塞状态)
+Terminated(终止状态)

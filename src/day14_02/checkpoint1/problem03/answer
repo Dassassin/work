@@ -1,0 +1,4 @@
+NullPointerException - 空指针引用异常
+ClassCastException - 类型强制转换异常。
+IllegalArgumentException - 传递非法参数异常。
+ArithmeticException - 算术运算异常

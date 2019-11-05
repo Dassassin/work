@@ -1,0 +1,6 @@
+1.异常的根类是java.lang.Throwable。
+  其下有两个子类：java.lang.Error与java.lang.Exception。
+  平常所说的异常指java.lang.Exception 。
+2.错误(Error)即为出现在编译时的错误，无法处理，只能避免。
+3.编译异常(Expection)是运行时的错误，产生后程序员可以通过处理让程序继续运行，也是必须要处理的。
+4.运行时异常(RuntimeException)是指在编译时可以通过，但是在程序运行时报出错误。
